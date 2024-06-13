@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = TodoApp
+build_property.ProjectDir = C:\Users\henry168\Desktop\TodoApp\src\TodoApp.HttpApi.Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

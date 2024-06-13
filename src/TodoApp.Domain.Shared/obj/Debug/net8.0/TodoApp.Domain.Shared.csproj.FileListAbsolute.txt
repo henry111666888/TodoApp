@@ -1,0 +1,13 @@
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\bin\Debug\net8.0\TodoApp.Domain.Shared.deps.json
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\bin\Debug\net8.0\TodoApp.Domain.Shared.dll
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\bin\Debug\net8.0\TodoApp.Domain.Shared.pdb
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\TodoApp.Domain.Shared.csproj.AssemblyReference.cache
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\TodoApp.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\TodoApp.Domain.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\TodoApp.Domain.Shared.AssemblyInfoInputs.cache
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\TodoApp.Domain.Shared.AssemblyInfo.cs
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\TodoApp.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\TodoApp.Domain.Shared.dll
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\refint\TodoApp.Domain.Shared.dll
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\TodoApp.Domain.Shared.pdb
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Domain.Shared\obj\Debug\net8.0\ref\TodoApp.Domain.Shared.dll

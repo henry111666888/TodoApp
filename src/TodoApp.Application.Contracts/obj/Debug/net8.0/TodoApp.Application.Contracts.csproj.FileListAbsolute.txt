@@ -1,0 +1,15 @@
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\bin\Debug\net8.0\TodoApp.Application.Contracts.deps.json
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\bin\Debug\net8.0\TodoApp.Application.Contracts.dll
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\bin\Debug\net8.0\TodoApp.Application.Contracts.pdb
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\bin\Debug\net8.0\TodoApp.Domain.Shared.dll
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\bin\Debug\net8.0\TodoApp.Domain.Shared.pdb
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\TodoApp.Application.Contracts.csproj.AssemblyReference.cache
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\TodoApp.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\TodoApp.Application.Contracts.AssemblyInfoInputs.cache
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\TodoApp.Application.Contracts.AssemblyInfo.cs
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\TodoApp.Application.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\TodoApp..0AD419C1.Up2Date
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\TodoApp.Application.Contracts.dll
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\refint\TodoApp.Application.Contracts.dll
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\TodoApp.Application.Contracts.pdb
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.Application.Contracts\obj\Debug\net8.0\ref\TodoApp.Application.Contracts.dll

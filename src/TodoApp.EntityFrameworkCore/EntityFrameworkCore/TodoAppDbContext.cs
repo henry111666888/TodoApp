@@ -51,6 +51,9 @@ public class TodoAppDbContext :
     public DbSet<Tenant> Tenants { get; set; }
     public DbSet<TenantConnectionString> TenantConnectionStrings { get; set; }
 
+    // new!
+    public DbSet<TodoItem> TodoItems { get; set; }
+
     #endregion
 
     public TodoAppDbContext(DbContextOptions<TodoAppDbContext> options)
@@ -82,5 +85,10 @@ public class TodoAppDbContext :
         //    b.ConfigureByConvention(); //auto configure for the base class props
         //    //...
         //});
+
+        builder.Entity<TodoItem>(b =>
+        {
+            b.ToTable("TodoItems");
+        });
     }
 }

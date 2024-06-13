@@ -17,3 +17,4 @@ C:\Users\henry168\Desktop\TodoApp\src\TodoApp.EntityFrameworkCore\obj\Debug\net8
 C:\Users\henry168\Desktop\TodoApp\src\TodoApp.EntityFrameworkCore\obj\Debug\net8.0\TodoApp.EntityFrameworkCore.pdb
 C:\Users\henry168\Desktop\TodoApp\src\TodoApp.EntityFrameworkCore\obj\Debug\net8.0\TodoApp.EntityFrameworkCore.genruntimeconfig.cache
 C:\Users\henry168\Desktop\TodoApp\src\TodoApp.EntityFrameworkCore\obj\Debug\net8.0\ref\TodoApp.EntityFrameworkCore.dll
+C:\Users\henry168\Desktop\TodoApp\src\TodoApp.EntityFrameworkCore\obj\Debug\net8.0\TodoApp.EntityFrameworkCore.sourcelink.json
